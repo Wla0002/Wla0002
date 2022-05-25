@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wla0002
+- 👋 Hi, I’m Will
 - 👀 I’m interested in data science, ML/AI
-- 🌱 I’m currently learning python for data science
+- 🌱 I’m currently learning about machine learning for data science
 - 💞️ I’m looking to collaborate on whatever honestly
 - 📫 email me at wla0002@mix.wvu.edu
 
